@@ -92,7 +92,7 @@
     "pinia-plugin-persistedstate": "^3.2.1",
     "print-js": "^1.6.0",
     "qrcode": "^1.5.3",
-    "qs": "^6.12.1",
+    "qs": "^6.14.1",
     "resize-observer-polyfill": "^1.5.1",
     "showdown": "^2.1.0",
     "sortablejs": "^1.15.2",
