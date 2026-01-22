@@ -84,7 +84,7 @@
     "dayjs": "^1.11.10",
     "echarts": "^5.5.0",
     "exceljs": "^4.4.0",
-    "lodash-es": "^4.17.21",
+    "lodash-es": "^4.17.23",
     "mockjs": "^1.1.0",
     "nprogress": "^0.2.0",
     "path-to-regexp": "^6.2.2",
